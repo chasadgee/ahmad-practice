@@ -1,0 +1,52 @@
+.font-style {
+    color: green;
+    border: 2px solid peru;
+    /* border-left: 2px solid peru;
+    border-bottom: 2px solid peru;
+    border-top: 2px solid peru;
+    border-right: 2px solid peru; */
+}
+
+.paragraph {
+    background-color: blueviolet;
+    color: white;
+    /* margin: 10px; */
+    /* padding: 10px; */
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 20px; */
+    /* padding: 10px 20px 40px 30px; */
+    padding: 20px 30px;
+    width: 100%;
+    height: auto;
+
+}
+
+.set {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 330px;
+    height: auto;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.image-style {
+    width: 200px;
+}
+
+.float {
+    float: right;
+}
