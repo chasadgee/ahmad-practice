@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+    .text-size {
+        font-size: 16px;
+    }
+
+    .heading {
+        font-size: 24px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .text-size {
+        font-size: 18px;
+    }
+
+    .heading {
+        font-size: 44px;
+    }
+
+}
